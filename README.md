@@ -18,7 +18,7 @@ https://azure.microsoft.com/free/
 ---
 
 ### Nesta etapa, será necessário definir suas configurações. Essas definições vão desde ajustes básicos, como região e modelo, até opções avançadas.  
-Ao clicar em 'Revisar e criar', localizado na parte inferior da tela, a máquina será criada e uma tela de confirmação será exibida.
+Ao clicar em 'Rever e criar', localizado na parte inferior da tela, a máquina será criada e uma tela de confirmação será exibida.
 
 ![Configurações da máquina](imagens/3.png)
 
